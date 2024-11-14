@@ -9,7 +9,9 @@
 
 ## My File Structure
 # my-laravel-app
+# my-laravel-app
 
+```plaintext
 my-laravel-app/
 ├── app/
 │   ├── Console/               # Custom Artisan commands
@@ -61,6 +63,7 @@ my-laravel-app/
 ├── package.json               # Node.js dependencies (if using Laravel Mix)
 ├── phpunit.xml                # PHPUnit configuration
 └── webpack.mix.js             # Laravel Mix configuration for assets (optional)
+
 
 ## About Laravel
 
