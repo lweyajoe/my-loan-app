@@ -63,7 +63,7 @@ my-laravel-app/
 ├── package.json               # Node.js dependencies (if using Laravel Mix)
 ├── phpunit.xml                # PHPUnit configuration
 └── webpack.mix.js             # Laravel Mix configuration for assets (optional)
-
+```plaintext
 
 ## About Laravel
 
